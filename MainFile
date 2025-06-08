@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 Line added by A
 
-Commit done by A
+=======
+Line added by B
+>>>>>>> 8432bf2 (commit done by Repo B)
 
 File for MergeConflict
